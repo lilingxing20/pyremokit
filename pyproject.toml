@@ -1,0 +1,25 @@
+[project]
+name = "pyremokit"
+version = "0.1.0"
+description = "A Python package for remote command execution and automation."
+authors = [{name = "lixingxing", email = "lilingxing20@163.com"}]
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Environment :: Console",
+    "Intended Audience :: Information Technology",
+    "Intended Audience :: System Administrators",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Topic :: System :: Systems Administration",
+]
+dependencies = [
+     "requests",
+     "pycryptodome",
+     "pexpect>=4.8.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/lilingxing20/pyremokit"
+Repository = "https://github.com/lilingxing20/pyremokit.git"
