@@ -1,6 +1,6 @@
 [project]
 name = "pyremokit"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package for remote command execution and automation."
 authors = [{name = "lixingxing", email = "lilingxing20@163.com"}]
 readme = "README.md"
