@@ -3,7 +3,7 @@ Python Remote Toolkit
 
 
 # Introduction
-  pyremokit is a Python-based remote management toolkit. It includes VMware vCenter/Esxi management tool tsvmsdk, RDstor management tool tsrdstorsdk, and login system execute command line tool tscmdsdk.
+Pyremokit is a Python-based remote management toolkit. It includes login system execute command line tool cmdsdk, and other features to be supplemented..
 
 
 # features
